@@ -17,7 +17,7 @@ const courseData = {
     "Sem 3": [],
     "Sem 4": [
       { name: "Core Java", show: "#", download: "#" },
-      { name: "Software Engineer", show: "./assets/QB/sem-4/Software Engineer/Software Engineer.html", download: "./assets/QB/sem-4/Software Engineer/Software Engineer.docx" },
+      { name: "Software Engineering ", show: "./assets/QB/sem-4/Software Engineer/Software Engineer.html", download: "./assets/QB/sem-4/Software Engineer/Software Engineer.docx" },
       { name: "Introduction to Embedded Systems", show: "#", download: "#" },
       { name: "Computer graphics and animation", show: "#", download: "#" },
       { name: "Computer Oriented Statistical Techniques", show: "#", download: "#" },
