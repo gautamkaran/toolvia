@@ -89,12 +89,12 @@ ul{
 .logo:hover {
   transform: scale(1.1);
 }
-span {
-  background: linear-gradient(270deg, #f3a183, #ea580c);
+.via {
+  background: linear-gradient(270deg, #c69786, #ea580c);
   background-clip: text;
   color: write;
   font-weight: 800;
-  font-size: 1rem;
+  font-size: 2rem;
 }
 
 .navbar a {
@@ -113,7 +113,7 @@ span {
 /* Bsc-IT Section */
 section {
   height: 100vh;
-  padding: 14rem 15%;
+  padding: 14rem 20%;
 }
 .heading {
   font-size: 3rem;
@@ -176,12 +176,10 @@ section {
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.3s ease-in-out, padding 0.3s ease-in-out;
-  padding: 0 15px;
 }
 
 .accordion-content.open {
-  max-height: 300px;
-  padding: 15px;
+  max-height: 450px;
 }
 
 .buttons {
@@ -235,9 +233,14 @@ section {
   border-radius: 5px;
 }
 
+.subject span{
+  font-weight: 800;
+  padding-right: 10px;
+}
 .coming-soon {
   text-align: center;
   color: #e57373;
+  font-size: 1rem;
   font-weight: bold;
   padding: 20px;
 }
@@ -267,4 +270,8 @@ section {
   .navbar.active {
     display: block;
   }
+  section {
+    height: 100vh;
+    padding: 14rem 5%;
+}
 }
