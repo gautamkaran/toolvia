@@ -19,7 +19,7 @@ const courseData = {
       { name: "Core Java", show: "./assets/QB/sem-4/core java/core java.html", download: "#" },
       { name: "Software Engineering ", show: "./assets/QB/sem-4/Software Engineer/Software Engineer.html", download: "./assets/QB/sem-4/Software Engineer/Software Engineer.docx" },
       { name: "Introduction to Embedded Systems", show: "./assets/QB/sem-4/Embedded System/Introduction to Embedded Systems.html", download: "#" },
-      { name: "Computer graphics and animation", show: "#", download: "#" },
+      { name: "Computer graphics and animation", show: "./assets/QB/sem-4/computer animation/Computer Animation.html", download: "#" },
       { name: "Computer Oriented Statistical Techniques", show: "#", download: "#" },
     ]
   },
